@@ -1,7 +1,7 @@
 {
   "name": "react-dnd",
   "version": "17.0.0",
-  "description": "Drag and Drop for React",
+  "description": "@forked: Drag and Drop for React",
   "type": "module",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
